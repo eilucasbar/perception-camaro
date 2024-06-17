@@ -39,7 +39,7 @@ Siga os passos abaixo para configurar o ambiente de desenvolvimento:
 
 1. Clone este repositório:
     ```sh
-    git clone https://github.com/eilucasbar/Percepcao-camaro.git
+    git clone https://github.com/eilucasbar/Perception-camaro.git
     cd Percepcao-camaro
     ```
 
