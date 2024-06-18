@@ -58,6 +58,7 @@ Para executar o projeto, siga os passos abaixo:
     - Acesse a plataforma Roboflow e prepare seu conjunto de dados rotulando as imagens necessarias para realizar o treinamento, existe uma média de 600 - 1000 imagens para cada segmento. As imagens devem ser coletadas em diferentes condições de iluminação, clima, ângulos, e cenários para garantir a robustez do modelo.
 Deve-se garantir que as imagens cubram a variação de tamanho, orientação e oclusão dos objetos. 
     - Siga as instruções para gerar um link de exportação para o formato YOLOv5 ou YOLOv8.
+    - Você usará proprio notebook do roboflow para realizar este treinamento, no caso de duvida pode acessar dentro da plataforma o tutorial em video de como fazer este treinamento.
     
 
 2. **Treinamento no Google Colab:**
