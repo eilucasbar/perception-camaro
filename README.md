@@ -67,7 +67,7 @@ Deve-se garantir que cubram a variação de tamanho, orientação e oclusão dos
 
     - Siga as instruções no notebook para configurar e iniciar o treinamento.
     - Utilize o link de exportação gerado pelo Roboflow para carregar os dados.
-    - Para fazer o downloado da pasta de treinamento da sua rede neural, você deve utilizar o seguinte código no google Collab(utilizando como referencia o treinamento de uma yoloV5):
+    - Para fazer o downloado da pasta de treinamento da sua rede neural depois de ter seguido todo o passo a passo, você deve utilizar o seguinte código no google Collab (utilizando como referencia o treinamento de uma yoloV5):
 ```
 from google.colab import files
 import shutil
