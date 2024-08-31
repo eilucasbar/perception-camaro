@@ -1,4 +1,4 @@
-# Projeto de Treinamento de Redes Neurais
+# Projeto de Treinamento de Redes Neurais Yolo
 
 ## Introdução
 
