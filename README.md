@@ -1,4 +1,4 @@
-# Projeto de Treinamento de Redes Neurais YOLOv5 e YOLOv8
+# Projeto de Treinamento de Redes Neurais
 
 ## Introdução
 
