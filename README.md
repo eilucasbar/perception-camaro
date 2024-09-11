@@ -1,23 +1,4 @@
-# Projeto de Treinamento de Redes Neurais Yolo
-
-## Introdução
-
-Bem-vindo ao projeto de treinamento de redes neurais YOLOv5 e YOLOv8. Este repositório contém todo o código e documentação necessários para reproduzir o treinamento personalizado de modelos YOLO utilizando a plataforma Roboflow. O objetivo desta documentação é guiar novos pesquisadores para que eles possam replicar nosso trabalho de maneira rápida e eficiente.
-
-## Pré-requisitos
-
-Antes de começar, certifique-se de ter os seguintes itens instalados:
-
-- Python 3.8 ou superior
-- Git
-- Conta no Google Colab
-- Conta na plataforma Roboflow
-
-## Instruções de Instalação
-
-Siga os passos abaixo para configurar o ambiente de desenvolvimento:
-
-# Projeto de Treinamento de Redes Neurais YOLOv5 e YOLOv8
+# Projeto de Treinamento de Redes Neurais
 
 ## Introdução
 
