@@ -71,9 +71,9 @@ Deve-se garantir que cubram a variação de tamanho, orientação e oclusão dos
 ```
 from google.colab import files
 import shutil
-Compactar a pasta "yolov5" em um arquivo zip
+#Compactar a pasta "yolov5" em um arquivo zip#
 shutil.make_archive('/content/yolov5', 'zip', '/content/yolov5')
-Baixar o arquivo zip para a sua máquina local
+#Baixar o arquivo zip para a sua máquina local#
 files.download('/content/yolov5.zip')
 ```
 
